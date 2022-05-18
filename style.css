@@ -1,0 +1,36 @@
+h1 
+{
+    display: flex;
+    color: brown;
+}
+
+*
+{
+    color: rgba(0.8, 0.2, 0.4, 0.5);
+}
+
+.header 
+{
+    background-color: darkorange;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer 
+{
+    background-color: rgba(1, 1, 1, .6);
+    display: flex;
+    justify-content: center;
+}   
+
+.container
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.item
+{
+
+}
